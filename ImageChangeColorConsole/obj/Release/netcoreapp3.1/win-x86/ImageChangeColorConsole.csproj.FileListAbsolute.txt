@@ -1,0 +1,16 @@
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.exe
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.deps.json
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.runtimeconfig.json
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.runtimeconfig.dev.json
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.dll
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.pdb
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\bin\Release\netcoreapp3.1\win-x86\System.Drawing.Common.dll
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.csprojAssemblyReference.cache
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.csproj.CopyComplete
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.dll
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.pdb
+C:\Users\Андрей\RiderProjects\ImageChangeColorConsole\ImageChangeColorConsole\obj\Release\netcoreapp3.1\win-x86\ImageChangeColorConsole.genruntimeconfig.cache
